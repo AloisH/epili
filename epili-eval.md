@@ -50,12 +50,32 @@ La sécurité de leurs données est indispensable ainsi que le respect des RGPD 
 
 ### Système de communication
 
-Actuellement, ils utilisent Discord, mais ceux-ci ayant récemment eu une amende en France quant au respect des RGPD, ils envisagent de changer de solution. Nous proposons donc de passer toutes leurs communications sur [Mattermost](https://mattermost.com/)qui est une solution Open Source de messagerie instantanée.
+Actuellement, ils utilisent Discord, mais ceux-ci ayant récemment eu une amende en France quant au respect des RGPD, ils envisagent de changer de solution. Nous proposons donc de passer toutes leurs communications sur [Mattermost](https://mattermost.com/) qui est une solution Open Source de messagerie instantanée.
 
 ### Système de gestions des relations humaines
 
 La plupart de leurs processus actuels sont gérer avec des fichiers Excel. Ils n'ont donc pas de plateformes centralisée pour toute la gestion de leurs problématiques. [Odoo](https://www.odoo.com/fr_FR) peut apporter une solution pour simplifier et unifier leur fonctionnement. C'est une solution d'ERP à 80% Open Source.
 
-## Mise en place des solutions
+## Présentation des solutions
+
+### Odoo
+
+#### Introduction
+#### Entreprise
+#### Communauté
+#### Modèle économique
+#### Mise en place
+#### Qualité
+#### Ressenti
+
+### Mattermost
+
+#### Introduction
+#### Entreprise
+#### Communauté
+#### Modèle économique
+#### Mise en place
+#### Qualité
+#### Ressenti
 
 Prendre 2 solutions est les mettres en place et dire comment c'est deroulé le processus
