@@ -58,24 +58,20 @@ La plupart de leurs processus actuels sont gérer avec des fichiers Excel. Ils n
 
 ## Présentation des solutions
 
-### Odoo
-
-#### Introduction
-#### Entreprise
-#### Communauté
-#### Modèle économique
-#### Mise en place
-#### Qualité
-#### Ressenti
-
 ### Mattermost
 
 #### Introduction
+
 #### Entreprise
+
 #### Communauté
+
 #### Modèle économique
+
 #### Mise en place
+
 #### Qualité
+
 #### Ressenti
 
 Prendre 2 solutions est les mettres en place et dire comment c'est deroulé le processus
