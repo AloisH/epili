@@ -1,20 +1,20 @@
 # EPILI - Projet final
 
-## Introducations
+## Introduction
 
 ### Rappel du sujet
 
 Choisir une entreprise puis identifier les besoins de cette entreprise en terme de système d'information.
 Puis faire correspondre les besoins avec des logiciels open source.
 
-### Autheurs
+### Auteurs
 
 - Alois Heloir
 - Loup Dallier
 
-## Entrerpise
+## Entreprise
 
-### Introdutions
+### Introduction
 
 Nous avons décider de choisir une association nommé LuckForLife76 qui gère un lieu de vie.
 
@@ -48,6 +48,8 @@ La sécurité de leurs données est indispensable ainsi que le respect des RGPD 
 
 ### Système de mail professionnel
 
+Actuellement, ils utilisent des adresses mail Google. Nous leur proposons de mettre en place [Zextras Carbonio](https://www.zextras.com/fr/carbonio-community-edition/) qui est une solution Open Source à 80% de gestion de mails ainsi que de calendriers.
+
 ### Système de communication
 
 Actuellement, ils utilisent Discord, mais ceux-ci ayant récemment eu une amende en France quant au respect des RGPD, ils envisagent de changer de solution. Nous proposons donc de passer toutes leurs communications sur [Mattermost](https://mattermost.com/) qui est une solution Open Source de messagerie instantanée.
@@ -74,4 +76,4 @@ La plupart de leurs processus actuels sont gérer avec des fichiers Excel. Ils n
 
 #### Ressenti
 
-Prendre 2 solutions est les mettres en place et dire comment c'est deroulé le processus
+Prendre 2 solutions est les mettre en place et dire comment s'est déroulé le processus
