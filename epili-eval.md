@@ -33,6 +33,18 @@ Cette association est composée :
 - d'un service de relations humaines,
 - de deux responsables qui dirigent l'association.
 
+### Problématique
+
+Nous avons pu identifier plusieurs problématiques :
+
+- Un système de communication rapide entre les différents services est nécessaire.
+- Ils ont besoin d'avoir une boite mail professionnelle par employé.
+- Les relations humaines ont besoin d'un logiciel pour gérer leurs différents sujets : la comptabilité, la facturation, les notes de frais, les documents, les recrutements, les congés et les employés. Un système de signature électronique leur est nécessaire pour faire valider les différents documents ainsi que les plannings par les employés.
+
+### Contraintes
+
+La sécurité de leurs données est indispensable ainsi que le respect des RGPD car ils gèrent des données sensibles concernant les enfants encadrés.
+
 ### Passage au libre
 
 #### Intérêt
@@ -47,18 +59,6 @@ Cette association est composée :
 - Compréhension d’un modèle économique parfois complexe
 - Difficulté d’intégration des solutions
 - Faible compatibilité avec les logiciels propriétaires
-
-### Problématique
-
-Nous avons pu identifier plusieurs problématiques :
-
-- Un système de communication rapide entre les différents services est nécessaire.
-- Ils ont besoin d'avoir une boite mail professionnelle par employé.
-- Les relations humaines ont besoin d'un logiciel pour gérer leurs différents sujets : la comptabilité, la facturation, les notes de frais, les documents, les recrutements, les congés et les employés. Un système de signature électronique leur est nécessaire pour faire valider les différents documents ainsi que les plannings par les employés.
-
-### Contraintes
-
-La sécurité de leurs données est indispensable ainsi que le respect des RGPD car ils gèrent des données sensibles concernant les enfants encadrés.
 
 ## Solutions proposées
 
