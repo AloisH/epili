@@ -11,6 +11,7 @@ Puis faire correspondre les besoins avec des logiciels open source.
 
 - Alois Heloir
 - Loup Dallier
+- Alaedine Benkerbich
 
 ## Entreprise
 
@@ -32,6 +33,21 @@ Cette association est composée :
 - d'un service de relations humaines,
 - de deux responsables qui dirigent l'association.
 
+### Passage au libre
+
+#### Intérêt
+
+- Qualité car soumis aux contributeurs du monde entier
+- Rentable : aucun coût de licence
+- Sécurisé car peut être analysé et retravaillé par le plus grand nombre
+- Liberté : possibilité de changer de prestataire à tout moment
+
+#### Difficultés
+
+- Compréhension d’un modèle économique parfois complexe
+- Difficulté d’intégration des solutions
+- Faible compatibilité avec les logiciels propriétaires
+
 ### Problématique
 
 Nous avons pu identifier plusieurs problématiques :
@@ -48,7 +64,7 @@ La sécurité de leurs données est indispensable ainsi que le respect des RGPD 
 
 ### Système de mail professionnel
 
-Actuellement, ils utilisent des adresses mail Google. Nous leur proposons de mettre en place [Zextras Carbonio](https://www.zextras.com/fr/carbonio-community-edition/) qui est une solution Open Source à 80% de gestion de mails ainsi que de calendriers.
+Actuellement, ils utilisent des adresses mail Google. Nous leur proposons de mettre en place BlueMind qui est une solution complète de messagerie d’entreprise et d’agendas collaboratif.
 
 ### Système de communication
 
