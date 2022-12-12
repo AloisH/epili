@@ -21,6 +21,26 @@ C’est une solution complète de messagerie d’entreprise, d’agendas et de t
 ## Mise en oeuvre
 
 L’installation a été réalisée sur une VM Ubuntu 22.04 en suivant les [instructions suivantes](https://github.com/AloisH/epili/blob/main/epili-eval.bluemind.install.md). Le nom de domaine choisi est « epili.epita.fr ».
+<figure>
+  <img
+  src="image/bluemind_screen_1.png"
+  alt="Boîte mail BlueMind">
+  <figcaption align="center">Boîte mail BlueMind</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="image/bluemind_screen_2.png"
+  alt="Agenda BlueMind">
+  <figcaption align="center">Agenda BlueMind</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="image/bluemind_screen_3.png"
+  alt="Ecran d’administration BlueMind">
+  <figcaption align="center">Ecran d’administration BlueMind</figcaption>
+</figure>
 
 ## Evaluation
 
