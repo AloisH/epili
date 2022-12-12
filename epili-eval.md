@@ -49,16 +49,18 @@ La sécurité de leurs données est indispensable ainsi que le respect des RGPD 
 
 #### Intérêt
 
-- Qualité car soumis aux contributeurs du monde entier
-- Rentable : aucun coût de licence
-- Sécurisé car peut être analysé et retravaillé par le plus grand nombre
-- Liberté : possibilité de changer de prestataire à tout moment
+Le passage au libre présente différents avantages : 
+- C'est un gage de qualité présent car le logiciel est soumis aux contributeurs du monde entier.
+- Il est rentable car aucun coût de licence n'est requis.
+- Il peut être gage de sécurité car il peut être analysé et retravaillé par le plus grand nombre.
+- Le libre apporte une certaine liberté avec la possibilité de changer de prestataire à tout moment.
 
 #### Difficultés
 
-- Compréhension d’un modèle économique parfois complexe
-- Difficulté d’intégration des solutions
-- Faible compatibilité avec les logiciels propriétaires
+Des difficultés peuvent survenir lors du passage au libre :
+- Il faut parvenir à comprendre un modèle économique parfois complexe.
+- L’intégration des solutions n'est pas toujours facile.
+- La compatibilité avec les logiciels propriétaires est souvent faible.
 
 ## Solutions proposées
 
