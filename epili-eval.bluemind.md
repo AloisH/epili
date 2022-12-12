@@ -1,8 +1,8 @@
 # BlueMind
 
-## Authors
+## Auteur
 
-- Alaedine Benkerbich
+Alaedine Benkerbich
 
 ## Produit
 
@@ -21,13 +21,24 @@
 
 ## Mise en oeuvre
 
+Mettre en œuvre ce logiciel dans une plateforme de cloud (par exemple : Clever Cloud, Render...) ou on-premise sur un serveur personnel
+
+- Installation sur VM Ubuntu 22.04
+- Suivi des [instructions suivantes](https://github.com/AloisH/epili/blob/main/epili-eval.bluemind.install.md)
+
 ## Evaluation
+
+Compléter l'évaluation "a priori" par un retour d'expérience opérationnelle
 
 ## Fiche produit
 
 ### Informations
 
+Factuelles sur le logiciel (y compris sur l’organisation qui le produit) - dans la mesure où ces informations peuvent impacter la “décision d’achat”, et toujours dans l’optique d’un passage au libre
+
 ### Qualité
+
+Capacité à répondre au besoin, mais aussi une évaluation du processus de développement 
 
 ### Impression générale
 
