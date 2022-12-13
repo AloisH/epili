@@ -12,6 +12,15 @@ Par exemple avec Odoo, vous pouvez gérer les inventaire, les employés, le recr
 
 Odoo est un logiciel open source à 80% qui est sous la license LGPLv3
 
+## Caractéristiques clefs
+
+- Industrialisé : utilisation, installation et gestion dans le temps très simples​
+- Plébiscité : Plus des 7 millions d'utilisateurs​
+- Ecosystème : Prêt de 1% de part de marché pour les ERP​
+- Complet : Système complet pour gérer un ERP​
+- Accessible : accès web / mobile / clients lourds​
+- Extensible : conçu pour pouvoir rajouter des plugins facilements
+
 ## Entreprise
 
 Le nom de l'entreprise s'appelle Odoo, créer en 2005, cette entreprise est un éditeur de logiciel et ne dispose que d'un produit qui est Odoo.
@@ -45,6 +54,20 @@ Cependant elle n'est pas toujours très responsive lorsque par exemple on appuie
 ## Ressenti
 
 Pour conclure, je pense que l'application est vraiment bien pour gérer les relations humaines d'une entreprise. Elle est trés simple d'installation mais aussi d'utilisation. En moins de 40min j'ai réussi à setup l'application et à l'utiliser
+
+### Forces
+
+- Simplicité d’installation​
+- Simplicité d’utilisation​
+- Liberté : déploiement sur Cloud Odoo ou ses propres serveurs​
+- Gratuit en mode on premise​
+- Support en ligne​
+
+### Faiblesses
+
+- Compétences nécessaires pour l’administration sur ses propres serveurs​
+- Ergonomie un peu veille​
+- Application qui n'est pas forcément tres responsive
 
 ## Tableau récapitulatif
 
