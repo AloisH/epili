@@ -52,7 +52,7 @@ Mattermost est un système relativement simple à mettre en place et agréable �
 
 | Mattermost        | Note sur 10 | Commentaire                                                                                                                                                                 |
 | ----------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| License           |             | MIT et Apache                                                                                                                                                               |
+| License           |             | MIT et Apache 2.0                                                                                                                                                           |
 | Ressenti global   | 6           | Agréable à utiliser, mais manque de certaines fonctionnalités qui peuvent sembler essentielles pour ce genre de produit                                                     |
 | Qualité           | 9           | Design et utilisation très semblables à Slack et donc dans les standards moderne                                                                                            |
 | Installation      | 8           | La possibilité de tester très facilement l'application est agréable. Le déploiement se fait simplement comme pour le test, mais la configuration prend un peu plus de temps |
